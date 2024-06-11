@@ -1,0 +1,37 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Ò”ûşÿÿÿÿ8Á¾×Ä€2J$6dbcc5bb-481e-4963-977f-8a691c204021
+m	java:S106"+Replace this use of System.out by a logger.(ıº¿8Ê¾×Ä€2J$a71368cf-3509-4baa-bb14-58e3f6ad2866
+m	java:S106"+Replace this use of System.out by a logger.(Ç¼’œ8Ê¾×Ä€2J$90184f20-241f-4d9e-910d-c02fe0cf8246
+u
+java:S6126"2Replace this String concatenation with Text block.(Ç¼’œ8Ê¾×Ä€2J$5ef411bc-1e98-4538-b29d-d9f894752ece
+m	java:S106&"+Replace this use of System.out by a logger.(©¿8Ë¾×Ä€2J$2816890c-50b6-4940-8d3e-bd898a36bafe
+d
+java:S6205,"Remove this redundant block.(ò÷Ñäÿÿÿÿÿ8Ë¾×Ä€2J$5c8806ba-4b63-4604-92a6-441fd88b49a0
+r	java:S106-"+Replace this use of System.out by a logger.(¯ö¸ôşÿÿÿÿ8Ë¾×Ä€2J$d67fa9c8-3dec-4a03-b17e-9f4efbfc624d
+d
+java:S6205/"Remove this redundant block.(€ø¥ÿÿÿÿÿ8Ë¾×Ä€2J$d8ad3b99-5a7f-417f-a7f1-4084eae542e5
+r	java:S1060"+Replace this use of System.out by a logger.(º·ğŸÿÿÿÿÿ8Ì¾×Ä€2J$8ded08d7-c436-4008-a04d-82761b21ed30
+_
+java:S62052"Remove this redundant block.(ÁŸò8Ì¾×Ä€2J$a537904b-e031-4fba-ab65-02516e3d30c0
+r	java:S1063"+Replace this use of System.out by a logger.(®Øˆëùÿÿÿÿ8Ì¾×Ä€2J$42d473c2-4241-402d-b3e6-ef3f954f40b9
+d
+java:S62055"Remove this redundant block.(Çøÿÿÿÿÿ8Ì¾×Ä€2J$95bb6b29-99a4-4744-b9c9-9851ea3cd517
+r	java:S1066"+Replace this use of System.out by a logger.(Êç¨‘üÿÿÿÿ8Ì¾×Ä€2J$d683d38e-f430-4991-b4f9-f584694edbbb
+d
+java:S62058"Remove this redundant block.(ï·áãüÿÿÿÿ8Ì¾×Ä€2J$2f2e22ff-8e19-4e22-bd43-ba33cbd9a2f1
+m	java:S1069"+Replace this use of System.out by a logger.(ÔÓ­º8Ì¾×Ä€2J$340bbc4f-9f43-44c7-bf7b-7cfa66e07275
+_
+java:S6205;"Remove this redundant block.(ÜäÅ¿8Ì¾×Ä€2J$135032e2-3f46-4d0d-a4a0-dd7344c27ee3
+m	java:S106<"+Replace this use of System.out by a logger.(˜¤ß÷8Ì¾×Ä€2J$4b8abfc5-ebc6-4d95-8566-571e013e278e
+_
+java:S6205>"Remove this redundant block.(èóÄŞ8Ì¾×Ä€2J$d1986108-0d3e-44d5-a818-f1c2b018bbad
+r	java:S106?"+Replace this use of System.out by a logger.(ÏÇìõÿÿÿÿÿ8Î¾×Ä€2J$e1728f23-df73-4282-8eac-dfcfb88157be
+_
+java:S6205A"Remove this redundant block.(¥Ü—æ8Î¾×Ä€2J$a9353f4b-49b9-4adc-90f3-ebd447747877
+m	java:S106B"+Replace this use of System.out by a logger.(‡Ö¥ä8Î¾×Ä€2J$d64704ad-137d-4442-8eb4-29443aa59145
+_
+java:S6205D"Remove this redundant block.(üØô8Î¾×Ä€2J$2958d56e-db1c-4278-b2bc-9677758cc9da
+l	java:S106E"+Replace this use of System.out by a logger.(êªóT8Î¾×Ä€2J$0fe5a39a-0852-4d59-945c-6fcbcaf7520f
+m	java:S106K"+Replace this use of System.out by a logger.(Ç¼’œ8Ï¾×Ä€2J$095a4e2d-63a8-4e8a-80a9-ede32ee43f75
+u
+java:S6126K"2Replace this String concatenation with Text block.(Ç¼’œ8Ï¾×Ä€2J$92ccefad-d7d4-4cd5-b301-c9cd52fd50e2
